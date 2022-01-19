@@ -1,4 +1,4 @@
-package com.kiukyu;
+import com.kiukyu.Circle;
 
 public class TestCircle {
     public static void main(String[] args) {
